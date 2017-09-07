@@ -1,0 +1,3 @@
+URL: jdbc:mysql://localhost:3306/ceia2015
+Usuario: root
+Password:
